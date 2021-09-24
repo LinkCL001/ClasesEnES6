@@ -1,0 +1,21 @@
+{
+  "name": "ClasesenES6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.15.6"
+  },
+  "dependencies": {
+    "core-js": "^3.18.0"
+  },
+  "description": ""
+}
