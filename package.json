@@ -1,13 +1,22 @@
 {
   "name": "ClasesenES6",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkCL001/ClasesEnES6.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinkCL001/ClasesEnES6/issues"
+  },
+  "homepage": "https://github.com/LinkCL001/ClasesEnES6#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.5",
@@ -15,7 +24,6 @@
     "@babel/preset-env": "^7.15.6"
   },
   "dependencies": {
-    "core-js": "^3.18.0"
-  },
-  "description": ""
+    "core-js": "^3.18.1"
+  }
 }
